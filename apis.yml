@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developers.decathlon.com/products/sport-vision
 common:
+  - type: DomainSecurity
+    url: security/sport-vision-domain-security.yml
   - type: Website
     url: https://developers.decathlon.com/products/sport-vision
   - type: PublicAPIsListing
