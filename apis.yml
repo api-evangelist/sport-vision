@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/sport-visi
 name: Sport Vision
 description: "Identify sport, brands and gear in an image. Also does image sports captioning"
 url: https://developers.decathlon.com/products/sport-vision
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
